@@ -1,0 +1,50 @@
+[
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Vasya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 1,
+    "CreatedAt": "2024-01-04T21:15:10.6132587+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 22,
+    "Salary": 0.0,
+    "Name": "Petya",
+    "Surname": "Letvinov",
+    "Phone": null,
+    "Email": null,
+    "Id": 2,
+    "CreatedAt": "2025-03-09T20:00:19.4801176+02:00",
+    "UpdatedAt": "2025-03-09T21:34:03.4093134+02:00"
+  },
+  {
+    "DoctorType": 2,
+    "Experience": 6,
+    "Salary": 0.0,
+    "Name": "Frants",
+    "Surname": "Mazurkevych",
+    "Phone": null,
+    "Email": null,
+    "Id": 3,
+    "CreatedAt": "2025-03-09T20:35:46.0599001+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 4,
+    "Experience": 34,
+    "Salary": 0.0,
+    "Name": "Anton",
+    "Surname": "Bondarchuk",
+    "Phone": null,
+    "Email": null,
+    "Id": 6,
+    "CreatedAt": "2025-03-09T21:40:03.7672981+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

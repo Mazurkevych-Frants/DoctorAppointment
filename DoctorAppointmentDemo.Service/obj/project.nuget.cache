@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FIYVnuvqKNg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
