@@ -17,12 +17,6 @@ namespace MyDoctorAppointment
 
         public void Menu()
         {
-            //Console.WriteLine("Select an action:");
-            //Console.WriteLine("1 - Current list of doctors\r\n2 - Add new doctor\r\n3 - Delete existing doctor\r\n4 - Update doctor information\r\n5 - Exit the program");
-            //int selectAction = int.Parse(Console.ReadLine());
-
-            //MenuTypes menu = (MenuTypes)selectAction;
-
             bool working = true;
             while (working)
             {
