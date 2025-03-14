@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\bin\Debug\net8.0\HomeWork-8.exe
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\bin\Debug\net8.0\HomeWork-8.deps.json
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\bin\Debug\net8.0\HomeWork-8.runtimeconfig.json
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\bin\Debug\net8.0\HomeWork-8.dll
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\bin\Debug\net8.0\HomeWork-8.pdb
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.dll
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\refint\HomeWork-8.dll
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.pdb
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\HomeWork-8.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\hangman game\HomeWork-8\obj\Debug\net8.0\ref\HomeWork-8.dll
