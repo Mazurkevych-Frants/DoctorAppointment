@@ -1,8 +1,12 @@
-﻿using DoctorAppointmentDemo.Domain.Enums;
+﻿using DoctorAppointmentDemo.Data.Interfaces;
+using DoctorAppointmentDemo.Domain.Enums;
+using DoctorAppointmentDemo.Service.Services;
 using MyDoctorAppointment.Domain.Entities;
 using MyDoctorAppointment.Domain.Enums;
 using MyDoctorAppointment.Service.Interfaces;
 using MyDoctorAppointment.Service.Services;
+using System.Text.Json;
+using System.Xml.Serialization;
 
 namespace MyDoctorAppointment
 {
@@ -111,6 +115,25 @@ namespace MyDoctorAppointment
                     
             }
         }
+
+        public void MenuXmlJsonSelect()
+        {
+            Console.WriteLine("Select data format:\n1 - XML\n2 - JSON");
+            int selectFormat = int.Parse(Console.ReadLine());
+
+            DoctorAppointment doctorAppointment = null;
+            MenuXmlJson menu = (MenuXmlJson)selectFormat;
+            switch (menu)
+            {
+                case MenuXmlJson.XML:
+                    
+                    break;
+                case MenuXmlJson.JSON:
+
+                    break;
+            }
+        }
+
     }
 
     public static class Program
@@ -119,6 +142,8 @@ namespace MyDoctorAppointment
         {
             var doctorAppointment = new DoctorAppointment();
             doctorAppointment.Menu();
+
+            
         }
     }
 }

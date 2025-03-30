@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <Id>1</Id>
+    <CreatedAt>2024-01-04T21:15:10.6132587+02:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Vasya</Name>
+    <Surname>Petrov</Surname>
+    <DoctorType>Dentist</DoctorType>
+    <Experience>20</Experience>
+    <Salary>0.0</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>2</Id>
+    <CreatedAt>2025-03-09T20:00:19.4801176+02:00</CreatedAt>
+    <UpdatedAt>2025-03-09T21:34:03.4093134+02:00</UpdatedAt>
+    <Name>Petya</Name>
+    <Surname>Letvinov</Surname>
+    <DoctorType>FamilyDoctor</DoctorType>
+    <Experience>22</Experience>
+    <Salary>0.0</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>3</Id>
+    <CreatedAt>2025-03-09T20:35:46.0599001+02:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Frants</Name>
+    <Surname>Mazurkevych</Surname>
+    <DoctorType>Dermatologist</DoctorType>
+    <Experience>6</Experience>
+    <Salary>0.0</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>4</Id>
+    <CreatedAt>2025-03-09T21:40:03.7672981+02:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Anton</Name>
+    <Surname>Bondarchuk</Surname>
+    <DoctorType>Paramedic</DoctorType>
+    <Experience>34</Experience>
+    <Salary>0.0</Salary>
+  </Doctor>
+</ArrayOfDoctor>

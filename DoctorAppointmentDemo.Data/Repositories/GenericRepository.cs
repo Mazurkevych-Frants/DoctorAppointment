@@ -70,8 +70,6 @@ namespace MyDoctorAppointment.Data.Repositories
         protected abstract void SaveLastId();
 
         protected AppSettings ReadFromAppSettings() => JsonConvert.DeserializeObject<AppSettings>(File.ReadAllText(Constants.AppSettingsPath))!;
-
-       
     }
 
     public class AppSettings
