@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -181,10 +181,6 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "doctors.xml",
@@ -194,8 +190,7 @@
               "RelativeToolTip": "DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.xml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-26T06:45:18.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T06:45:18.134Z"
             },
             {
               "$type": "Document",
@@ -217,7 +212,7 @@
               "RelativeDocumentMoniker": "DoctorAppointmentDemo.UI\\Program.cs",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\Program.cs",
               "RelativeToolTip": "DoctorAppointmentDemo.UI\\Program.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAgwIAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T18:27:17.608Z",
               "EditorCaption": ""
@@ -280,8 +275,7 @@
               "RelativeToolTip": "DoctorAppointmentDemo.Data\\MockedDatabase\\doctors.json",
               "ViewState": "AgIAABEAAAAAAAAAAAAYwCwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T18:27:17.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T18:27:17.612Z"
             },
             {
               "$type": "Document",
@@ -581,8 +575,7 @@
               "RelativeToolTip": "DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-09T16:22:04.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T16:22:04.126Z"
             },
             {
               "$type": "Document",
@@ -594,8 +587,7 @@
               "RelativeToolTip": "DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-06T18:27:17.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T18:27:17.621Z"
             },
             {
               "$type": "Bookmark",

@@ -121,15 +121,18 @@ namespace MyDoctorAppointment
             Console.WriteLine("Select data format:\n1 - XML\n2 - JSON");
             int selectFormat = int.Parse(Console.ReadLine());
 
-            DoctorAppointment doctorAppointment = null;
+            ISerializationService serializationService;
+            string filePath;
             MenuXmlJson menu = (MenuXmlJson)selectFormat;
             switch (menu)
             {
                 case MenuXmlJson.XML:
-                    
+                    serializationService = new XmlDataSerializeService();
+                    filePath = "doctors.xml";
                     break;
                 case MenuXmlJson.JSON:
-
+                    serializationService = new JsonDataSerializeService();
+                    filePath = "doctors.json";
                     break;
             }
         }
@@ -141,9 +144,10 @@ namespace MyDoctorAppointment
         public static void Main()
         {
             var doctorAppointment = new DoctorAppointment();
-            doctorAppointment.Menu();
 
-            
+            doctorAppointment.MenuXmlJsonSelect();
+
+            //doctorAppointment.Menu();
         }
     }
 }
